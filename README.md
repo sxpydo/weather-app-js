@@ -5,7 +5,7 @@ Content covered;
 - Javascript in the browser
 - JavScript in HTML
 - JavaScript variables
-- JS IF + IF ELSE statements
+- IF + IF ELSE statements in JavaScript
 - Logical operators
 - JS functions 
 - JS selectors
